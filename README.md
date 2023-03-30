@@ -4,7 +4,7 @@
 
 1. [github account](https://github.com/)
 2. [vs coce ide](https://code.visualstudio.com/)
-3. [heroku](https://dashboard.heroku.com)
+3. [Render](https://render.com/)
 
 Create a new environment for the project
 ```
